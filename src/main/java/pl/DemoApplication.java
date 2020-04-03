@@ -1,4 +1,4 @@
-package pl.h2test.demo;
+package pl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
